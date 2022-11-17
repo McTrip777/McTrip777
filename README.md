@@ -10,11 +10,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="jacobmcfaul.com" width="22px" src="https://previews.123rf.com/images/mdranahamid/mdranahamid2101/mdranahamid210100126/161577071-creative-letter-jm-logo-design-vector-template-initial-circle-letter-jm-logo-design.jpg" />][website]
+<!-- [<img align="left" alt="jacobmcfaul.com" width="22px" src="https://previews.123rf.com/images/mdranahamid/mdranahamid2101/mdranahamid210100126/161577071-creative-letter-jm-logo-design-vector-template-initial-circle-letter-jm-logo-design.jpg" />][website]
 [<img align="left" alt="McTrip777 | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
 [<img align="left" alt="McTrip777 | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />][instagram]
 <br>
-
+ -->
   <summary>GitHub Stats</summary>
 
 [![McTrip777's GitHub stats](https://github-readme-stats.vercel.app/api?username=McTrip777)](https://github.com/McTrip777/github-readme-stats)
