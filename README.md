@@ -2,11 +2,11 @@
 
 ## I'm a Full Stack Developer looking for my next opportunity!
 
-- I just finished my first MERN project: [Share Places][shareplaces]!
 - I’m currently improving my react skills!
+- Working transfering my React skills to react-native
 - I’m looking to collaborate with other content creators
-- 2021 Goals: Make a difference in peoples lives doing what I love
-- Fun fact: I love golfing and hiking!
+- 2023 Goals: Make a difference in peoples lives doing what I love
+- Fun fact: I love frisbee golf and hiking!
 
 ### Connect with me:
 
